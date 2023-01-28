@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Matt George <pyroraptor07@gmail.com>"]
 license = "MIT OR Apache-2.0"
+readme = "README.md"
 
 [features]
 openssl = ["dep:openssl"]
